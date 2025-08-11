@@ -1,3 +1,4 @@
+'use client';
 import { TaskCalendar } from '@/components/task-calendar';
 import { LayoutGrid } from 'lucide-react';
 
